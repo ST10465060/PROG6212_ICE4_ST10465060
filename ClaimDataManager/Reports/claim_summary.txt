@@ -1,0 +1,22 @@
+CONTRACT CLAIM SUMMARY
+Generated: 2026-09-14 19:53
+============================================================
+Claim ID   : 1
+Lecturer   : A. Phewa
+Module     : PROG6212
+Month      : August 2025
+Hours      : 40
+Rate       : R350,00
+Total      : R14 000,00
+Status     : Approved
+------------------------------------------------------------
+Claim ID   : 2
+Lecturer   : T. Mokoena
+Module     : DATA6222
+Month      : September 2025
+Hours      : 25
+Rate       : R400,00
+Total      : R10 000,00
+Status     : Pending
+------------------------------------------------------------
+Total claims exported: 2
